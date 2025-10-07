@@ -14,4 +14,5 @@ new line for feature-1
 7 new line for feature-1
 8 this line to be cherry picked
 9 this line to be ignored
+10 line from feature-2
 
