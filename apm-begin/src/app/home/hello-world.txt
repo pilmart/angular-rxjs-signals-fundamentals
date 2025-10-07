@@ -15,5 +15,6 @@ new line for feature-1
 8 this line to be cherry picked
 9 this line to be ignored
 way-cool-1
+way-cool-2
 
 
