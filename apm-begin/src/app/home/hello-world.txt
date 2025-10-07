@@ -16,5 +16,5 @@ new line for feature-1
 9 this line to be ignored
 way-cool-1
 way-cool-2
-
+10 line from feature-2
 
